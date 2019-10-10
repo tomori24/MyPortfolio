@@ -13,7 +13,7 @@
 
 ### リンク
 > - [Twitter](https://twitter.com/tmri24)  
-> - [Kaggle](https://www.kaggle.com/tomori24)  
+> - [Kaggle](https://www.kaggle.com/tomori24) 最近やってません  
 > - [Qiita](https://qiita.com/tomori24) ほとんど書いてません 
 
 
