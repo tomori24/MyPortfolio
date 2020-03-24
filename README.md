@@ -10,7 +10,6 @@
 - 音楽同人サークル [笑う音屋Suns](https://twitter.com/warau_otoya)
 
 ### リンク
-> - [Twitter](https://twitter.com/tmri24)  
 > - [Kaggle](https://www.kaggle.com/tomori24) 最近やってません  
 > - [Qiita](https://qiita.com/tomori24) ほとんど書いてません 
 
